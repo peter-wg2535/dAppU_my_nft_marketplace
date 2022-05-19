@@ -1,0 +1,13 @@
+test run web site
+
+1. npx hardhat node
+
+2.get some fake acctount to metamarn (include account0)
+
+3. if it is local blockchai, you have to redeploy all the tim
+if it is test net you can deploy once
+
+npx hardhat run src\backend\scripts\deploy.js --network localhost
+npx hardhat run src\backend\scripts\deploy.js --network kovan /rinkeby /ropsten
+
+4.npm run start
