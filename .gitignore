@@ -12,9 +12,9 @@
 /build
 
 
-/src/frontend
-/src/index.js
-/src/serviceWorker.js
+#/src/frontend
+#/src/index.js
+#/src/serviceWorker.js
 
 
 # misc
